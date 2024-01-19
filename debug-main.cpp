@@ -1,4 +1,4 @@
-/* T04: Debug-Me!
+/* T03: Debug-Me!
    This program is designed to learn more about data types and
    facilitate the use of the IDE's debugging tools.
    Original code by Dr. Jan Pearce, Berea College */
